@@ -1,4 +1,4 @@
-# 📚 API Básica — Flask (CRUD de Livros)
+# 📚 API LIVROS — Flask (CRUD de Livros)
 
 📖 Sobre o Projeto
 
